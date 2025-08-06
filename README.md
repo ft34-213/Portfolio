@@ -7,7 +7,7 @@ Welcome to my personal developer portfolio! This website showcases my skills, pr
 
 ## 🔗 Live Demo
 
-[View Live Site]
+https://portfolio-ten-mauve-rre3pjvp4t.vercel.app/
 
 ## 🛠️ Tech Stack
 
